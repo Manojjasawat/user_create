@@ -1,9 +1,11 @@
 users:
   - name: ravi 
     first: ravi
-    last: kumar
+    middle: kumar
+    last: sharma
     uid: 1010 
   - name: shyam
     first: shyam
-    last:  kumar
+    middle: kumar
+    last:  verma
     uid: 1011
